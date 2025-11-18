@@ -57,6 +57,7 @@ caesarDecrypt(message, key);
 printf("Decrypted Message: %s\n", message); 
 return 0;
 }
+```
 ## OUTPUT:
 <img width="611" height="326" alt="Screenshot 2025-08-20 090809" src="https://github.com/user-attachments/assets/6687f839-24f2-4b8c-a29e-19c55949fb1f" />
 
